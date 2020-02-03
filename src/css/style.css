@@ -46,7 +46,7 @@ input[type="checkbox"] {
 body > * {
     padding: 10px;
     position: fixed;
-    overflow: scroll;
+    overflow: hidden;
     background: #D3D3D3;
 }
 #timer {
@@ -173,7 +173,7 @@ aside {
     top: 0;
     width: 15vw;
     height: 100vh;
-    display: none;
+    /*isplay: none;*/
 }
 aside > * {
     margin-bottom: 20px;
