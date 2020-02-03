@@ -78,7 +78,7 @@ header {
     top: 0;
     left: 0;
     overflow: hidden;
-    background-size: 40%, 40%;
+    background-size: 20%, 20%;
     background-color: rgb(255 , 0 , 0);
     /* You'll need to mess with this a bit to get your camera to work. Replace the url with a live-updating image feed from your camera. Using other camera streaming systems will require some tweaking. */
     background-image: url(http://frcvision.local:1181/stream.mjpg);
@@ -88,7 +88,7 @@ header {
     position: fixed;
     left: 40%;
     top: 0;
-    width: 40%;
+    width: 45%;
     overflow: hidden;
     background-color: rgb(0 , 255, 0);
 
@@ -110,7 +110,7 @@ header {
 #cameraFour {
     position: fixed;
     bottom: 0;
-    left: 40%;
+    left: 45%;
     width: 40%;
     padding-left: 30;
     overflow: hidden;
