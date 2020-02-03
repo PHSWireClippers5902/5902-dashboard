@@ -78,7 +78,7 @@ header {
     bottom: 0;
     left: 0;
     overflow: hidden;
-    background-size: 50%, 50%;
+    background-size: 40%, 40%;
     background-color: rgb(16, 199, 71);
     /* You'll need to mess with this a bit to get your camera to work. Replace the url with a live-updating image feed from your camera. Using other camera streaming systems will require some tweaking. */
     background-image: url(http://frcvision.local:1181/stream.mjpg);
@@ -100,7 +100,7 @@ header {
     bottom: 50%;
     left:50%;
     overflow: hidden;
-    background-size: 50%, 50%;
+    background-size: 40%, 40%;
     background-color: rgb(216, 150, 9);
     /* You'll need to mess with this a bit to get your camera to work. Replace the url with a live-updating image feed from your camera. Using other camera streaming systems will require some tweaking. */
     background-image: url(http://frcvision.local:1183/stream.mjpg);
@@ -112,7 +112,7 @@ header {
     left: 0;
     padding-left: 30;
     overflow: hidden;
-    background-size: 50%, 50%;
+    background-size: 40%, 40%;
     background-color: rgb(250, 26, 201);
     /* You'll need to mess with this a bit to get your camera to work. Replace the url with a live-updating image feed from your camera. Using other camera streaming systems will require some tweaking. */
     background-image: url(http://frcvision.local:1182/stream.mjpg);
