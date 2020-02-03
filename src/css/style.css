@@ -168,7 +168,7 @@ text {
     font-size: 28px;
     letter-spacing: -1px;
 }
-aside {
+/*aside {
     right: 0;
     top: 0;
     width: 15%;
@@ -177,7 +177,7 @@ aside {
 aside > * {
     margin-bottom: 20px;
 }
-
+*/
 #logo {
     overflow: hidden;
 }
