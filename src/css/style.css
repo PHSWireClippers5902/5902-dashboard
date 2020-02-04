@@ -111,7 +111,7 @@ header {
 #cameraFour {
     position: fixed;
     bottom: 0;
-    left: 27;
+    left: 27%;
     width: 40%;
     padding-left: 30;
     overflow: hidden;
