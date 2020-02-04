@@ -94,7 +94,7 @@ header {
     background-color: rgb(0 , 255, 0);
 
     /* You'll need to mess with this a bit to get your camera to work. Replace the url with a live-updating image feed from your camera. Using other camera streaming systems will require some tweaking. */
-    background-image: url(http://frcvision.local:1181/stream.mjpg);
+    background-image: url(http://frcvision.local:1182/stream.mjpg);
 }
 
 #cameraThree {
@@ -118,7 +118,7 @@ header {
     background-size: contain;
     background-color: rgb(250, 26, 201);
     /* You'll need to mess with this a bit to get your camera to work. Replace the url with a live-updating image feed from your camera. Using other camera streaming systems will require some tweaking. */
-    background-image: url(http://frcvision.local:1183/stream.mjpg);
+    background-image: url(http://frcvision.local:1184/stream.mjpg);
 }
 article {
     top: 0;
