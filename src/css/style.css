@@ -174,7 +174,6 @@ aside {
     top: 0;
     width: 15vw;
     height: 100vh;
-    display: none;
 }
 aside > * {
     margin-bottom: 20px;
