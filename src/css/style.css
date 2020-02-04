@@ -172,7 +172,7 @@ text {
 aside {
     right: 0;
     top: 0;
-    width: 32vw; /* started at 15 */
+    width: 33vw; /* started at 15 */
     height: 100vh;
 }
 aside > * {
